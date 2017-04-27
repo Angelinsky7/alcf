@@ -1,0 +1,43 @@
+{
+    "name": "alcf",
+    "version": "0.0.1",
+    "description": "another lib css for flexbox",
+    "main": "alcf-flex.scss",
+    "scripts": {
+        "start": "gulp serve",
+        "build": "gulp build"
+    },
+    "author": "Steven de Marco",
+    "license": "MIT",
+    "keywords": [
+        "css",
+        "scss",
+        "flexbox",
+        "responsive"
+    ],
+    "bugs": {
+        "url": "https://github.com/Angelinsky7/alcf/issues"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.8",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^3.1.1",
+        "gulp-concat": "^2.6.1",
+        "gulp-minify-css": "^1.2.4",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0",
+        "gulp-sourcemaps": "^2.4.1",
+        "gulp-util": "^3.0.8",
+        "sassdoc": "^2.2.0"
+    },
+    "dependencies": {
+        "reset-css": "^2.2.0"
+    },
+    "files": [
+        "css",
+        "sass",
+        "alcf-flex.scss",
+        "LICENSE",
+        "README.md"
+    ]
+}
