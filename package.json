@@ -1,6 +1,6 @@
 {
     "name": "alcf",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "another lib css for flexbox",
     "main": "alcf-flex.scss",
     "scripts": {
@@ -28,9 +28,7 @@
         "gulp-sass": "^3.1.0",
         "gulp-sourcemaps": "^2.4.1",
         "gulp-util": "^3.0.8",
-        "sassdoc": "^2.2.0"
-    },
-    "dependencies": {
+        "sassdoc": "^2.2.0",
         "reset-css": "^2.2.0"
     },
     "files": [
