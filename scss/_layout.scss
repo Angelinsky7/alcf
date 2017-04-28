@@ -37,7 +37,7 @@
         flex: 1 1 auto;
     }
     &-Item {
-        &--cross-position {
+        &--vertical {
             &-start {
                 // align-self: flex-start;
                 margin-bottom: auto;
@@ -52,7 +52,7 @@
                 margin-top: auto;
             }
         }
-        &--axis-position {
+        &--horizontal {
             &-start {
                 margin-right: auto;
             }
