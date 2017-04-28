@@ -35,19 +35,19 @@
   .alcf-Layout > * {
     -ms-flex: 1 1 auto;
         flex: 1 1 auto; }
-  .alcf-Layout-Item--cross-position-start {
+  .alcf-Layout-Item--vertical-start {
     margin-bottom: auto; }
-  .alcf-Layout-Item--cross-position-center {
+  .alcf-Layout-Item--vertical-center {
     margin-bottom: auto;
     margin-top: auto; }
-  .alcf-Layout-Item--cross-position-end {
+  .alcf-Layout-Item--vertical-end {
     margin-top: auto; }
-  .alcf-Layout-Item--axis-position-start {
+  .alcf-Layout-Item--horizontal-start {
     margin-right: auto; }
-  .alcf-Layout-Item--axis-position-center {
+  .alcf-Layout-Item--horizontal-center {
     margin-right: auto;
     margin-left: auto; }
-  .alcf-Layout-Item--axis-position-end {
+  .alcf-Layout-Item--horizontal-end {
     margin-left: auto; }
   .alcf-Layout-Item--fixed {
     -ms-flex: 0 0 auto;
